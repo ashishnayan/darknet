@@ -1,0 +1,5 @@
+classes= 2
+train  = custom/boarding-pass-train.txt
+valid  = custom/boarding-pass-test.txt
+names = custom/boarding_pass.names
+backup = backup/
